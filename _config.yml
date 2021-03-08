@@ -7,7 +7,7 @@ tagline: "Software in orbit"
 remote_theme: hydecorp/hydejack@v9.1.2
 
 
-accent_image: /assets/img/salutebg.jpg
+accent_image: /assets/img/earthriseCrop.jpg
 
 plugins:
   - jekyll-include-cache
