@@ -11,7 +11,7 @@ remote_theme: hydecorp/hydejack@v9.1.2
 accent_image: /assets/img/bettercrop.jpg
 
 hydejack:
-   no_navbar:           false
+   no_navbar:           true
 
 plugins:
   - jekyll-include-cache
