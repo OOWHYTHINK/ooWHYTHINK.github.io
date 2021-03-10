@@ -7,10 +7,10 @@
   display:none;
 }
 
-
-.page > header > .dingbat {
-	content:"/1F391";
+hr.dingbat:after {
+	content:"\1F391";
 }
+
 
 // Image centering
 
