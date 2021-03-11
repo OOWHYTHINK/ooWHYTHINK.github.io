@@ -75,8 +75,9 @@ div.dottedBorder {
 /*	outline-style: dashed;
 	outline-offset: -2px;
 	outline-color:#bababa;*/
-	border-style: dashed;
-	border-color:rgba(186, 186, 186, .4);
+	border-style: solid;
+	border-color: rgba(255, 255, 255, 0.3);
+	
 	padding-top:1rem;
 	padding-left:1rem;
 	padding-right:1rem;
@@ -87,6 +88,7 @@ div.dottedBorder {
 
 div.paddedBorder {
 	padding:5px;
-	border-style: solid;
-	border-color: rgba(255, 255, 255, 0.2);
+	border-style: dashed;
+	border-color:rgba(186, 186, 186, .2);
+
 }
