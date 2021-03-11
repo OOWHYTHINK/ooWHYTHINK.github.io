@@ -4,7 +4,7 @@
 
 layout: home
 cover: true
-title: Welcome to <span style="font-color:rgb(244, 232, 191);">Lunar Codebase</span>
+title: Welcome to <span style="color:rgb(244, 232, 191);">Lunar Codebase</span>
 ---
 
 <p style="text-align: center;">Is your computer not doing the things you want it to do because the software doesn't <i>exist</i>? </p>
