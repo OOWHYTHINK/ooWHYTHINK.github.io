@@ -42,16 +42,16 @@ div.hr.pb0 {
 .page-title {
 	text-align: center;
 }
-@media only screen and (max-width: 600px) {
+@media only screen and (min-width: 600px) {
   article.page {
 
-   padding-left:0px;
+   padding-left:4rem;
 
   }
 }
 article.page {
 	font-family:Helvetica;
-	padding-left:4rem;
+	padding-left:0;
 }
 
 span.roundedTitle {
