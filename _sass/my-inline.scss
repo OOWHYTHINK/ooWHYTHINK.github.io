@@ -43,9 +43,14 @@ div.hr.pb0 {
 .page-title {
 	text-align: center;
 }
-
+@media only screen and (max-width: 600px) {
+  article.page {
+   margin-left:0;
+  }
+}
 article.page {
 	font-family:Helvetica;
+	margin-left:3rem;
 }
 
 span.roundedTitle {
