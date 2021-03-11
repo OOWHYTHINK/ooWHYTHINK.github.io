@@ -15,10 +15,7 @@ hr.dingbat.related::after {
 }
 
 hr.dingbat {
-	padding:2px;
-	background-color:#e2e2e2;
-	box-shadow:  16px 16px 32px #c0c0c0,
-             -16px -16px 32px #ffffff;
+	
 }
 
 div.hr.pb0 {
@@ -46,4 +43,8 @@ span.roundedTitle {
 	padding-bottom:3px;
 	box-shadow:  16px 16px 32px #c0c0c0,
              -16px -16px 32px #ffffff;
+}
+
+span.shadedText {
+	text-shadow: 2px 2px #ff0000;
 }
