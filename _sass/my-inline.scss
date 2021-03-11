@@ -20,7 +20,7 @@ hr.dingbat.related::after {
 hr.dingbat.related {
 	margin: 0 auto;
 	width:100px;
-	height:20px;
+	height:15px;
 }
 
 
@@ -52,6 +52,10 @@ span.roundedTitle {
              -16px -16px 32px #ffffff;
 }
 
-span.shadedText {
-	text-shadow: 2px 2px #d9d9d9;
+span.darkShadedText {
+	text-shadow: 2px 2px #c7c7c7;
+}
+
+span.lightShadedText {
+	text-shadow: 2px 2px #c7c7c7;
 }

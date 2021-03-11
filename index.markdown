@@ -4,14 +4,18 @@
 
 layout: home
 cover: true
-title: <span class= "roundedTitle"><span class= "lightShadedText"><span style="color:#a6a6a6;">Welcome to </span></span><span class = "darkShadedText"><span style="color:#f4e8bf;">Lunar Codebase</span></span></span>
+title: <span class= "roundedTitle"><span class= "lightShadedText"><span style="color:#a6a6a6;">Welcome to </span><!-- close  color-->
+</span><!-- close shading--><span class= "darkShadedText"><span style="color:#f4e8bf;">Lunar Codebase</span><!-- close color -->
+</span><!-- close shading -->
+</span> <!-- close roundedTitle -->
+
 ---
 
 <p style="text-align: center;">Does your device not do the things you want it to do because software to do it doesn't <i>exist</i>? </p>
 
 <p style="text-align: center;"><b> <span style="font-family:EB Garamond;font-size:1.2rem">Lunar Codebase</span> </b> may be able to solve your problem at some point in the near future</p>
 
-
+<!-- close -->
 
 
 
