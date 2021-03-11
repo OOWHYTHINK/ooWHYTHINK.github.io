@@ -12,11 +12,13 @@ body {
 hr.dingbat.related::after {
 	content:"\1F391";
 	font-size: 4.5rem;
+}
+
+hr.dingbat {
 	padding:2px;
 	background-color:#e2e2e2;
 	box-shadow:  16px 16px 32px #c0c0c0,
              -16px -16px 32px #ffffff;
-
 }
 
 div.hr.pb0 {
