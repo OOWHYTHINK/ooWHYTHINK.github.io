@@ -8,10 +8,10 @@ hr.dingbat.related::after {
 	content:"\1F391";
 	font-size: 4.5rem;
 }
-/*
+
 div.hr.pb0 {
-	color:linear-gradient(180deg, black, white);
-}*/
+	border-style: none;
+}
 
 .page > header {
 	margin-bottom: 4.5rem;
@@ -30,6 +30,6 @@ span.roundedTitle {
 	border-radius:15px;
 	padding-right:10px;
 	padding-left:10px;
-	padding-top:5px;
-	padding-bottom:5px;
+	padding-top:3px;
+	padding-bottom:3px;
 }
