@@ -15,7 +15,7 @@ hr.dingbat.related::after {
 	box-sizing: content-box;
 	border-radius:20px;
 	border-color: rgba(255, 255, 255, 0.2);
-	border-style: solid;
+	border-style: dashed;
 	box-shadow:  16px 16px 32px #c0c0c0,
              -16px -16px 32px #ffffff;
 }
@@ -106,5 +106,5 @@ span.roundedTitle.border {
   background-size: 15px 4px, 15px 4px, 4px 15px, 4px 15px;
   background-position: 0px 0px, 200px 100px, 0px 100px, 200px 0px;
   padding: 10px;
-  animation: border-dance 4s infinite linear;
+  /*animation: border-dance 4s infinite linear;*/
 }
