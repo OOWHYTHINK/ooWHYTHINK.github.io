@@ -12,11 +12,10 @@ body {
 hr.dingbat.related::after {
 	content:"\1F391";
 	font-size: 4.5rem;
-	box-sizing: border-box;
+	box-sizing: content-box;
 	border-radius:20px;
 	border-color: rgba(255, 255, 255, 0.2);
 	border-style: solid;
-	outline: 2px dashed rgba(186, 186, 186, .4);
 	box-shadow:  16px 16px 32px #c0c0c0,
              -16px -16px 32px #ffffff;
 }
@@ -97,4 +96,15 @@ div.paddedBorder {
 	border-color: rgba(255, 255, 255, 0.3);
 	
 
+}
+
+span.roundedTitle.border {
+	  height: 100px;
+  width: 200px;
+  background: linear-gradient(90deg, blue 50%, transparent 50%), linear-gradient(90deg, blue 50%, transparent 50%), linear-gradient(0deg, blue 50%, transparent 50%), linear-gradient(0deg, blue 50%, transparent 50%);
+  background-repeat: repeat-x, repeat-x, repeat-y, repeat-y;
+  background-size: 15px 4px, 15px 4px, 4px 15px, 4px 15px;
+  background-position: 0px 0px, 200px 100px, 0px 100px, 200px 0px;
+  padding: 10px;
+  animation: border-dance 4s infinite linear;
 }
