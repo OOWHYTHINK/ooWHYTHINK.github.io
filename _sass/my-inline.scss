@@ -46,7 +46,7 @@ div.hr.pb0 {
 @media only screen and (max-width: 600px) {
   article.page {
 
-   padding-left:0;
+   padding-left:0px;
 
   }
 }
@@ -92,7 +92,7 @@ div.dottedBorder {
 }
 
 div.paddedBorder {
-	padding:5px;
+	box-sizing:content-box;
 	border-style: solid;
 	border-color: rgba(255, 255, 255, 0.3);
 	
