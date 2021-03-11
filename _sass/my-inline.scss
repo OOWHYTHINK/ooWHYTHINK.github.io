@@ -12,6 +12,8 @@ body {
 hr.dingbat.related::after {
 	content:"\1F391";
 	font-size: 4.5rem;
+	box-sizing: content-box;
+	padding:2px;
 }
 
 hr.dingbat {
