@@ -4,7 +4,7 @@
 
 layout: home
 cover: true
-title: <span class= "roundedTitle"><span style=color:white>Welcome to </span><span class= "shadedText"><span style="color:#f4e8bf;">Lunar Codebase</span></span></span>
+title: <span class= "roundedTitle"><span style="color:#a6a6a6;">Welcome to </span><span class= "shadedText"><span style="color:#f4e8bf;">Lunar Codebase</span></span></span>
 ---
 
 <p style="text-align: center;">Does your device not do the things you want it to do because software to do it doesn't <i>exist</i>? </p>
