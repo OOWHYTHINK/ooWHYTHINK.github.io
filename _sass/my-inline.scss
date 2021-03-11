@@ -14,6 +14,9 @@ hr.dingbat.related::after {
 	font-size: 4.5rem;
 	box-sizing: content-box;
 	border-radius:15px;
+	border-color: rgba(255, 255, 255, 0.2);
+	border-style: solid;
+	border-width: 3px;
 	box-shadow:  16px 16px 32px #c0c0c0,
              -16px -16px 32px #ffffff;
 }
@@ -73,7 +76,7 @@ div.dottedBorder {
 	outline-offset: -2px;
 	outline-color:#bababa;*/
 	border-style: dashed;
-	border-color:#bababa;
+	border-color:rgba(186, 186, 186, .4);
 	padding-top:1rem;
 	padding-left:1rem;
 	padding-right:1rem;
@@ -84,4 +87,6 @@ div.dottedBorder {
 
 div.paddedBorder {
 	padding:5px;
+	border-style: solid;
+	border-color: rgba(255, 255, 255, 0.2);
 }
