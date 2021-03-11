@@ -4,10 +4,12 @@
 
 layout: home
 cover: true
-title: Welcome to The Venom
+title: <p style="text-align: center;">Welcome to Lunar Codebase</p>
 ---
 
-# This is the song that never ends
+<p style="text-align: center;">Is your computer not doing the things you want it to do because the software doesn't exist?</p>
+
+### <p style="text-align: center;"> this is a test </p>
 
 ### i wonder if this will work too
 
