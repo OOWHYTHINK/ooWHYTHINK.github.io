@@ -1,17 +1,21 @@
 
 
-// remove menu button from top
+/*// remove menu button from top*/
 
 
 #_menu {
   display:none;
 }
 
-hr.dingbat:after {
+/*hr.dingbat:after {
 	content:"\1F391";
 	font-size: 4.5rem;
 }
+*/
 
+#titlespan {
+	border-radius:25px;
+}
 
 // Image centering
 
@@ -20,3 +24,7 @@ img.centered {
   margin-left: auto;
   margin-right: auto;
 }
+
+/*html {
+	font-weight: 500;
+}*/
