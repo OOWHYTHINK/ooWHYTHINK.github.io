@@ -43,10 +43,7 @@ div.hr.pb0 {
 
 article.page {
 	font-family:Helvetica;
-}
-
-p {
-	margin-top:0;
+	margin-left:2.5rem;
 }
 
 span.roundedTitle {
@@ -74,4 +71,7 @@ div.dottedBorder {
 	padding-top:1rem;
 	padding-left:1rem;
 	padding-right:1rem;
+	border-radius:15px;
+	box-shadow:  16px 16px 32px #c0c0c0,
+             -16px -16px 32px #ffffff;
 }

@@ -11,7 +11,7 @@ title: <span class= "roundedTitle"><span class= "lightShadedText"><span style="c
 <div class= "dottedBorder">
 <p style="text-align: center;">Does your device not do the things you want it to do because software to do those things doesn't <i>exist</i>? </p>
 
-<p style="text-align: center;"> <span class= "darkShadedText"><span style="font-family:EB Garamond;font-size:1.2rem;color:#fff3cc">Lunar Codebase</span></span>may be able to solve these problems for you at some point in the near future</p>
+<p style="text-align: center;"> <span class= "darkShadedText"><span style="font-family:EB Garamond;font-size:1.2rem;color:#fff3cc">Lunar Codebase </span></span> may be able to solve these problems for you at some point in the near future</p>
 </div>
 
 <!-- close -->
