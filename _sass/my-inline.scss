@@ -4,7 +4,7 @@
 	display:none;
 }
 
-hr.dingbat:after {
+hr.dingbat.related::after {
 	content:"\1F391";
 	font-size: 4.5rem;
 }
