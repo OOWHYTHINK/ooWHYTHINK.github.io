@@ -7,9 +7,9 @@ cover: true
 title: Welcome to Lunar Codebase
 ---
 
-<p style="text-align: center;">Is your computer not doing the things you want it to do because the software doesn't <i>exist?</i></p>
+<p style="text-align: center;">Is your computer not doing the things you want it to do because the software doesn't <i>exist</i>? </p>
 
- we're working on that
+<p style="text-align: center;"> <b>Lunar Codebase may be able to solve your problem at some point in the near future</b> </p>
 
 
 
