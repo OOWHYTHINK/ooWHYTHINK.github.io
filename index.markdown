@@ -4,7 +4,7 @@
 
 layout: home
 cover: true
-title: <span class= "roundedTitle"><span class= "lightShadedText"><span style="color:#f5f5f5;">Welcome to </span></span><span class= "darkShadedText"><span style="color:#fff3cc;">Lunar Codebase</span></span></span> 
+title: <span class= "roundedTitle"><span class= "lightShadedText"><span style="color:#f0f0f0;">Welcome to </span></span><span class= "darkShadedText"><span style="color:#fff3cc;">Lunar Codebase</span></span></span> 
 
 ---
 
