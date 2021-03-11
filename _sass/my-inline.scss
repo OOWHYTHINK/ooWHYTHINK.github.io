@@ -6,7 +6,7 @@
 }
 
 body {
-	background-color:rgb(232, 232, 232)
+	background-color:#e2e2e2
 
 }
 hr.dingbat.related::after {
@@ -31,10 +31,12 @@ article.page {
 }
 
 span.roundedTitle {
-	background-color:#000000;
+	background-color:#e2e2e2;
 	border-radius:15px;
 	padding-right:10px;
 	padding-left:10px;
 	padding-top:3px;
 	padding-bottom:3px;
+	box-shadow:  16px 16px 32px #c0c0c0,
+             -16px -16px 32px #ffffff;
 }

@@ -4,10 +4,10 @@
 
 layout: home
 cover: true
-title: <span class= "roundedTitle"><span style=color:white> Welcome to </span><span style="color:rgb(247, 226, 156);">Lunar Codebase </span></span>
+title: <span class= "roundedTitle"><span style=color:white>Welcome to </span><span style="color:rgb(247, 226, 156);">Lunar Codebase</span></span>
 ---
 
-<p style="text-align: center;">Is your computer not doing the things you want it to do because the software doesn't <i>exist</i>? </p>
+<p style="text-align: center;">Does your device not do the things you want it to do because software to do it doesn't <i>exist</i>? </p>
 
 <p style="text-align: center;"><b> <span style="font-family:EB Garamond;font-size:1.2rem">Lunar Codebase</span> </b> may be able to solve your problem at some point in the near future</p>
 
