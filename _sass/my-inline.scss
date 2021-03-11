@@ -66,15 +66,19 @@ span.lightShadedText {
 }
 
 div.dottedBorder {
-	outline-style: dashed;
+/*	outline-style: dashed;
 	outline-offset: -2px;
-	outline-color:#bababa;
-/*	border-style: dashed;
-	border-color:#bababa;*/
+	outline-color:#bababa;*/
+	border-style: dashed;
+	border-color:#bababa;
 	padding-top:1rem;
 	padding-left:1rem;
 	padding-right:1rem;
 	border-radius:15px;
 	box-shadow:  16px 16px 32px #c0c0c0,
              -16px -16px 32px #ffffff;
+}
+
+div.paddedBorder {
+	padding:5px;
 }
