@@ -42,7 +42,7 @@ div.hr.pb0 {
 .page-title {
 	text-align: center;
 }
-@media only screen and (min-width: 600px) {
+@media (min-width: 1281px) {
   article.page {
 
    padding-left:120px;
@@ -51,7 +51,7 @@ div.hr.pb0 {
 }
 article.page {
 	font-family:Helvetica;
-	padding-left:22px;
+	padding-left:0px;
 }
 
 span.roundedTitle {
