@@ -9,7 +9,7 @@ title: Welcome to Lunar Codebase
 
 <p style="text-align: center;">Is your computer not doing the things you want it to do because the software doesn't <i>exist</i>? </p>
 
-<p style="text-align: center;"> <b> <span style="font-family:EB Garamond;"> Lunar Codebase</span> may be able to solve your problem at some point in the near future</b> </p>
+<p style="text-align: center;"> <b> <span style="font-family:EB Garamond;"></span>Lunar Codebase</span></b> may be able to solve your problem at some point in the near future</p>
 
 
 
