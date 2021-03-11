@@ -4,12 +4,12 @@
 
 layout: home
 cover: true
-title: Welcome to <span style="color:rgb(244, 232, 191);">Lunar Codebase</span>
+title: Welcome to <span style="color:rgb(247, 226, 156);">Lunar Codebase</span>
 ---
 
 <p style="text-align: center;">Is your computer not doing the things you want it to do because the software doesn't <i>exist</i>? </p>
 
-<p style="text-align: center;"><b> <span style="font-family:EB Garamond;font-size:1.3rem">Lunar Codebase</span> </b> may be able to solve your problem at some point in the near future</p>
+<p style="text-align: center;"><b> <span style="font-family:EB Garamond;font-size:1.2rem">Lunar Codebase</span> </b> may be able to solve your problem at some point in the near future</p>
 
 
 
