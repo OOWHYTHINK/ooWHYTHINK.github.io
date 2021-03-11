@@ -4,7 +4,7 @@
 
 layout: home
 cover: true
-title: <p style="text-align: center;">Welcome to Lunar Codebase</p>
+title: Welcome to Lunar Codebase
 ---
 
 <p style="text-align: center;">Is your computer not doing the things you want it to do because the software doesn't exist?</p>
