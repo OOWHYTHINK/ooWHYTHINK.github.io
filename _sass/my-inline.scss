@@ -1,9 +1,14 @@
-// remove nav bar
 
+
+/* remove nav bar*/
 .nav-btn-bar{
 	display:none;
 }
 
+body {
+	background-color:rgb(232, 232, 232)
+
+}
 hr.dingbat.related::after {
 	content:"\1F391";
 	font-size: 4.5rem;
@@ -14,7 +19,7 @@ div.hr.pb0 {
 }
 
 .page > header {
-	margin-bottom: 3rem;
+	margin-bottom: 4rem;
 }
 
 .page-title {
