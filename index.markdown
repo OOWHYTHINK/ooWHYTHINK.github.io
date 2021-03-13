@@ -14,9 +14,11 @@ title: <span class= "roundedTitle"><span class= "lightShadedText"><span style="c
 
 <p style="text-align: center;"><span class= "inlineDarkShadedText"><span style="font-family:EB Garamond;font-size:1.2rem;color:#fff3cc">Lunar Codebase </span></span> may be able to solve such problems for you in the very near future</p>
 
+<p class = smallText> Lunar Codebase ㈪2021 Thomas Sabino-Benowitz </p>
+
 </div>
 
-<p class = smallText> Lunar Codebase ㈪2021 Thomas Sabino-Benowitz </p>
+
 
 
 <!-- close -->
