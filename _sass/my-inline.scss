@@ -51,7 +51,7 @@ article.page {
 @media (min-width: 1281px) {
   article.page {
 
-   padding-left:220px;
+   padding-left:230px;
 
   }
 }
@@ -99,6 +99,9 @@ div.dottedBorder {
              -16px -16px 32px #ffffff;
 }
 
+p.smallText {
+	font-size: 10px;
+}
 
 
 span.roundedTitle.border {
