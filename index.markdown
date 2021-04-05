@@ -10,7 +10,9 @@ title: <span class= "roundedTitle"><span class= "lightShadedText"><span style="c
 
 <div class= "dottedBorder">
 
-<p style="text-align: center;">Does your device not do something that you want it to do because software to do it doesn't <i>exist</i>? Or are you a man or woman who has all the time in the world, but has been robbed by our cruel modern society of a way to find peace through recreation?</p>
+<p style="text-align: center;">Does your device not do something that you want it to do because software to do that thing doesn't <i>exist</i>? </p>
+
+<p style="text-align: center;"> Or, are you a man or woman who has all the time in the world, but has been robbed by our cruel modern society of a way to find peace through recreation? </p>
 
 <p style="text-align: center;"><span class= "inlineDarkShadedText"><span style="font-family:EB Garamond;font-size:1.2rem;color:#fff3cc">Lunar Codebase </span></span> may be able to solve such problems for you in the very near future</p>
 
