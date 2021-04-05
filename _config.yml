@@ -22,7 +22,7 @@ font:                  DotGothic16, Helvetica, Arial, sans-serif
 font_heading:          EB Garamond, Helvetica, Arial, sans-serif
 
 
-accent_image: /assets/img/bettercrop.jpg
+accent_image: /assets/img/funny.gif
 
 hydejack:
    no_navbar:           true
